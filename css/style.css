@@ -19,7 +19,7 @@
    
 }
 .box:nth-of-type(2){
-    background-image:README.md;
+    background-image:url("../first.md");
 
     background-size:cover; 
     background-repest:no-repest;
